@@ -1,4 +1,4 @@
-package com.javalearning;
+package com.javalearning.lambdaConcept;
 
 import java.util.function.Supplier;
 
