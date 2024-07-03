@@ -1,6 +1,6 @@
 package com.javalearning.lambdaConcept;
 
-/**
+import java.util.logging.Logger; /**
  * Lambda表达式的使用
  *  无参数无返回值的函数式接口
  */
@@ -28,4 +28,3 @@ public class LambdaTest01 {
 interface NoParamsNoReturn {
     void test();
 }
-
