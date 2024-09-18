@@ -36,13 +36,9 @@ public class ReflectTest03 {
         }
 
         sb.append(" {\n");
-
-
         sb.append("}");
-
 
         // 输出
         System.out.println(sb);
-
     }
 }
